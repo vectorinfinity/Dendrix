@@ -335,7 +335,7 @@ The YOLOv8 detection model identifies individual tree canopies from aerial image
 The segmentation pipeline extracts vegetation regions from aerial images using image processing techniques.
 
 <p align="center">
-<img src="assets/vegetation_segmentation.png" width="500"  height="500">
+<img src="assets/vegetation_segmentation.png" width="750"  height="750">
 </p>
 
 ### Generated Outputs
