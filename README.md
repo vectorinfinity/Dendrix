@@ -24,7 +24,7 @@ The framework combines **deep learning**, **image segmentation**, and **graph-ba
 ### 🎥 Demo
 
 <p align="center">
-<img src="assets/dendrix_demo.gif" width="750">
+<img src="assets/dendrix_demo.gif" width="400" height="250">
 </p>
 
 
@@ -318,7 +318,7 @@ The following outputs demonstrate the complete pipeline.
 The YOLOv8 detection model identifies individual tree canopies from aerial imagery.
 
 <p align="center">
-<img src="assets/tree_detection.jpg" width="750">
+<img src="assets/tree_detection.jpg" width="400"  height="250">
 </p>
 
 ### Generated Outputs
@@ -335,7 +335,7 @@ The YOLOv8 detection model identifies individual tree canopies from aerial image
 The segmentation pipeline extracts vegetation regions from aerial images using image processing techniques.
 
 <p align="center">
-<img src="assets/vegetation_segmentation.png" width="750">
+<img src="assets/vegetation_segmentation.png" width="400"  height="250">
 </p>
 
 ### Generated Outputs
@@ -352,9 +352,9 @@ The segmentation pipeline extracts vegetation regions from aerial images using i
 Segmented environmental data is transformed into a graph representation for route planning.
 
 <p align="center">
-<img src="assets/path_finding_1.png" width="750"><br>
-<img src="assets/path_finding_2.png" width="750"><br>
-<img src="assets/path_finding_3.png" width="750">
+<img src="assets/path_finding_1.png" width="400"  height="250"><br>
+<img src="assets/path_finding_2.png" width="400"  height="250"><br>
+<img src="assets/path_finding_3.png" width="400" height="250">
 </p>
 
 ### Generated Outputs
