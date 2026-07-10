@@ -24,7 +24,7 @@ The framework combines **deep learning**, **image segmentation**, and **graph-ba
 ### 🎥 Demo
 
 <p align="center">
-<img src="assets/dendrix_demo.gif" width="400" height="250">
+<img src="assets/dendrix_demo.gif" width="500" height="500">
 </p>
 
 
